@@ -1,6 +1,6 @@
-# qLog custom logger
-
-$${\color{red}THIS\space PROJECT\space IS\space IN\space EARLY\space DEVELOPMENT\space AND\space MAY\space BE\space UNSTABLE}$$
+# qLog Custom Logger
+Package qLog implements a simple logging package, based entirely on
+the Standard log Library Pakage, but adds preformatted log levels, DEGUG, INFO, WARN, ERROR and FATAL.
 
 ## License
 Copyright (c) 2023 Michael Naylor EA7KIR (https://michaelnaylor.es)
